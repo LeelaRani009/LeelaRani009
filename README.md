@@ -15,4 +15,4 @@ Hi, I'm Leela Rani!
 
 ## 📫 Connect with me
 - ✉️ Email: leelarani292@gmail.com
-- 🌐 Portfolio: github.com/LeelaRani009
+- 🌐 Portfolio: https://github.com/LeelaRani009
