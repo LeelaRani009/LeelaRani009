@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Leela Rani!
 
-<!--
-**LeelaRani009/LeelaRani009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI & ML) | 🐍 Python Learner | 💡 Aspiring Data Scientist
 
-Here are some ideas to get you started:
+## 💻 Projects
+- 🔸 *Smart Recipe Recommender* – AI-based recipe suggestions using user dietary restrictions
+- 🔸 *Snake Game* – Classic game in Python
+- 🔸 *Quiz App* – Developed using Python logic and UI skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Goals
+- Become a *Python expert* in 6 months
+- Build 10+ real-world projects
+- Learn Data Science & Web Development
+- Share daily learning on GitHub
+
+## 📫 Connect with me
+- ✉️ Email: leelarani292@gmail.com
+- 🌐 Portfolio: github.com/LeelaRani009
