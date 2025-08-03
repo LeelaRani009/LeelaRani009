@@ -16,3 +16,4 @@ Hi, I'm Leela Rani!
 ## 📫 Connect with me
 - ✉️ Email: leelarani292@gmail.com
 - 🌐 Portfolio: https://github.com/LeelaRani009
+-    linkedin  : https://www.linkedin.com/in/leelarani-lukalapu/
