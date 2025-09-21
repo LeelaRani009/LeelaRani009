@@ -8,7 +8,7 @@ Hi, I'm Leela Rani!
 - 🔸 *Quiz App* – Developed using Python logic and UI skills
 
 ## 🚀 Goals
-- Become a *Python expert* in 6 months
+- Become a *full stack* in 6 months
 - Build 10+ real-world projects
 - Learn Data Science & Web Development
 - Share daily learning on GitHub
